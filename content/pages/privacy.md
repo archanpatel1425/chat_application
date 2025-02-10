@@ -37,7 +37,7 @@ content_blocks:
 
      Please be aware that this Privacy Policy does not apply to these outside websites or content, or to any collection of your personal data after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content, or websites.
 
-    _bookshop_name: privacy/info
+  - _bookshop_name: privacy/info
     title: Information We Collect
     question1: What is personal data?
     description1: >-
@@ -73,7 +73,7 @@ content_blocks:
     description6: >-
           We do not intentionally gather personal data from visitors who are under the age of 13. If you believe that we might have done so, please contact us using our privacy contact form. When we learn that a child under 13 has submitted their personal data to LearnAI, we will try to delete the information as soon as possible if we do not have consent from the guardian.
 
-    _bookshop_name: privacy/use
+  - _bookshop_name: privacy/use
     title: How We Use Information
     qusetion1: How do we use personal data, and what is the legal basis for this use?
     description1: >-
@@ -122,7 +122,7 @@ content_blocks:
     description5: >-
           Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal justifications for using your data for different purposes, such as those set out above. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests. You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time. You can do this by going to Account Settings - Notifications where you will see that you can opt-out of different forms of marketing, you can also follow the instructions in the marketing email/ SMS/or during the call with our sales representative if you are contacted by one, or by contacting us via our privacy contact form .
 
-    _bookshop_name: privacy/share
+  - _bookshop_name: privacy/share
     title: Information We Share
     qusetion1: Is my data being shared outside of LearnAI?
     description1: >-
@@ -155,7 +155,7 @@ content_blocks:
 
           If another company acquires our company, business, or assets, that company will possess the personal data  collected by us and will assume the rights and obligations regarding your personal data as described in this  Privacy Policy. Upon these events, this Privacy Policy might change and we will notify you when appropriate.
       
-    _bookshop_nmae: privacy/international
+  - _bookshop_name: privacy/international
     title: International Data Transfers
     qusetion: Do we transfer data outside of your country?
     description: >-
@@ -165,13 +165,13 @@ content_blocks:
 
             A copy of the relevant mechanism can be provided for your review on request to privacy@LearnAI.com
 
-    _bookshop_name: privacy/retention
+  - _bookshop_name: privacy/retention
     title: Retention
     qusetion: Retention
     description: >-
           We keep your personal data as long as (i) you are a registered user on LearnAI or (ii) we need it to provide you with our services. This is with the exception of your payment details and your transaction history which we need to keep for 7 years from the date of the relevant transaction. These periods will be extended if there is a likely or ongoing legal claim from you or if we are required to keep it in connection with legal proceedings, or by law or industry guidelines. You may cancel your subscription or delete your personal data at any time (for further detail, see “How can I remove my data?” in the Section “My Privacy Rights” below).
      
-    _bookshop_name: privacy/security
+  - _bookshop_name: privacy/security
     title: Information Security
     qusetion: How do we protect your personal data?
     description: >-
@@ -185,7 +185,7 @@ content_blocks:
 
             If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us via our privacy contact form .
 
-    _bookshop_name: privacy/marketing
+  - _bookshop_name: privacy/marketing
     title: Marketing and Notifications
     qusetion1: What types of marketing can you expect from LearnAI?
     description1: >-
@@ -205,7 +205,7 @@ content_blocks:
      description5: >-
           We have created a useful overview of all the types of emails and notifications we send you on your account. Just go to Account Settings - Notifications where you can deselect any type of email or notification on that page.
       
-    _bookshop_name: privacy/product
+  - _bookshop_name: privacy/product
     title: Product Improvements
     description1: >-
           Every day we strive to deliver you the best learning experience possible. One of the ways we do this is by profiling and tracking user behavior. Another is by launching surveys and doing user tests. Both allow us to analyze and improve our products.
@@ -219,7 +219,7 @@ content_blocks:
     description4: >-
           If you would like to disable profiling and tracking, please let us know using the privacy contact form . Our support team will help you turn off profiling/tracking.
 
-    _bookshop_name: privacy/rights
+  - _bookshop_name: privacy/rights
     qusetion1: How can I access my data?
     description1: >-
           You have the right to ask us for a copy of your personal data, and for certain information about how we use it. To do this, please use our privacy contact form.
@@ -251,18 +251,18 @@ content_blocks:
 
             if relevant data is not provided, then we will not be able to receive your payment, send you an invoice and process the transaction. All other provisions of your information is optional. For example, if you do not provide us with your phone number, we would not be able to call you to provide you with more information about the products you may be interested in.
       
-    _bookshop_name: privacy/changes
+  - _bookshop_name: privacy/changes
     title: Changes to This Privacy Policy
     qusetion: What if we change this policy?
     description: >-
           We may need to update this Privacy Policy from time to time so we encourage you to review it frequently. If you are unsure whether the Privacy Policy has changed, please refer to the “Last Modified” date above. If a change is significant, we will post a notice on the LearnAI.com website and in the App before such changes take effect.
-       
-    _bookshop_name: privacy/issues
+      
+  - _bookshop_name: privacy/issues
     title:  Questions, Feedback or Issues
     description: >-
           We see our privacy strategy as a dialogue between us and our data science learners. And any part of a good dialogue is feedback, questions, and issues. If you have questions about our Privacy Policy or doubts about certain sections, please don't hesitate to contact us at privacy@LearnAI.com. We'll be happy to clarify things for you. In case you may experience a privacy issue with our services you can also contact us using the privacy contact form . We are committed to resolve any complaints about our collection or use of your personal data. We will reply to your complaint as soon as we can. We hope to resolve any complaint brought to our attention, however, if you feel that your complaint has not been adequately resolved, you may contact your local EU data protection supervisory authority , where applicable. And last but not least, we are open to receiving any type of feedback on our privacy strategy. So please drop us a line using our privacy contact form, or by contacting us at privacy@LearnAI.com .
       
-    _bookshop_name: privacy/additional
+  - _bookshop_name: privacy/additional
     title:  Additional Disclosures for Users in California
     description1: >-
           This section applies only to California residents. It describes how we collect, use and share “Personal Information” of California residents in operating our business, and their rights with respect to that Personal Information. For purposes of this section, “Personal Information” has the meaning given in the California Consumer Privacy Act of 2018 (“CCPA”) but does not include information exempted from the scope of the CCPA..
