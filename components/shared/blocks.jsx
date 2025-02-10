@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import components from '../../components/**/*.jsx';
 
 const getComponentKey = (name) => {

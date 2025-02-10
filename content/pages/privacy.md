@@ -19,7 +19,7 @@ content_blocks:
     title: Scope
     qusetion1: Whose privacy policy is this?
     description1: >-
-      This Privacy Policy applies to the website accessible at https://learnai.org/,the e-learning platform also accessible through that website, the LearnAI Community website (collectively, the "Websites"), and the mobile application (the "App"), all owned and operated by LearnAI, Org., a Delaware corporation.
+      This Privacy Policy applies to the website accessible at https://learnai.org/,the e-learning platform also accessible through that website, the LearnAI Community website (collectively, the "Websites"), and the mobile application (the "App"), all owned and operated by LearnAI, Org., a Delaware corporation.\n
 
       When we refer to 'we' (“LearnAI”, ”we”, or “us”), that means LearnAI, Inc., of 350 Fifth Avenue, Suite # 7730, New York, NY 10118, US and all its wholly-owned subsidiaries, Data Science Central UK Ltd. and LearnAI Belgium BV. Our headquarters are in New York City but we operate and have offices in London, United Kingdom and Leuven, Belgium as well.
 
