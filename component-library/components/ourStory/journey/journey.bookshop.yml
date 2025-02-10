@@ -1,0 +1,24 @@
+spec:
+  structures:
+    - content_blocks
+  label: Journey Timeline
+  description: "Displays a journey timeline with years, titles, images, and descriptions."
+  icon: "image"
+  tags: ["journey", "timeline", "history"]
+
+blueprint:
+  Journey:
+    - year:
+      title:
+      image:
+      image_alt:
+      description:
+      half_circle:
+    - year:
+      title:
+      image:
+      image_alt:
+      description:
+      half_circle:
+
+preview:

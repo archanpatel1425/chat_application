@@ -1,0 +1,30 @@
+spec:
+  structures:
+    - content_blocks
+  label: Our Projects Section
+  description: A section highlighting various projects.
+  icon: "image"
+  tags: ["projects", "work", "portfolio"]
+
+blueprint:
+  title:
+  description: 
+  sections:
+    - title: 
+      heading: 
+      description:
+      subsections:
+        - title: 
+          description: 
+        - title:
+          description:
+    - title:
+      heading: 
+      description: 
+      subsections:
+        - title:
+          description: 
+        - title:
+          description:
+
+preview:

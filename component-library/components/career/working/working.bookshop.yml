@@ -1,0 +1,37 @@
+spec:
+  structures:
+    - content_blocks
+  label: Working Section
+  description: A section displaying a series of cards with descriptions, highlighting certain text.
+  icon: "image"
+  tags: ["working", "cards", "description"]
+
+blueprint:
+  title: "How We Work"
+  cards:
+    - image:
+      description_prefix:
+      description_highlight:
+      description_middle:
+      description_highlightTwo:
+      description_text:
+      description_suffix:
+      right: true
+    - image:
+      description_prefix:
+      description_highlight:
+      description_middle:
+      description_highlightTwo:
+      description_text:
+      description_suffix:
+      right: false
+    - image:
+      description_prefix:
+      description_highlight:
+      description_middle:
+      description_highlightTwo:
+      description_text:
+      description_suffix:
+      right: true
+
+preview:

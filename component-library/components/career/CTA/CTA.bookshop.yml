@@ -1,0 +1,15 @@
+spec:
+  structures:
+    - content_blocks
+  label: CTA Section
+  description: A section that highlights key pillars with a CTA button.
+  icon: "image"
+  tags: ["cta", "career"]
+
+blueprint:
+  title: 
+  btn_text: 
+  btn_link: 
+
+preview:
+

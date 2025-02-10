@@ -1,0 +1,22 @@
+spec:
+  structures:
+    - content_blocks
+  label: Why to Join
+  description: A section to showcase reasons or benefits for joining.
+  icon: "image"
+  tags: ["why-join", "benefits"]
+
+blueprint:
+  title:
+  Answers:
+    - title: "Benefit 1"
+      description:
+      Image:
+    - title: "Benefit 2"
+      description:
+      Image:
+    - title: "Benefit 3"
+      description:
+      Image:
+
+preview:

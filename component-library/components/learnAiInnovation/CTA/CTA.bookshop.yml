@@ -1,0 +1,14 @@
+spec:
+  structures:
+    - content_blocks
+  label: CTA Section
+  description: A call-to-action section with a description and a button.
+  icon: "image"
+  tags: ["cta", "button", "text", "link"]
+
+blueprint:
+  description:
+  btn_text:
+  btn_link: 
+
+preview:

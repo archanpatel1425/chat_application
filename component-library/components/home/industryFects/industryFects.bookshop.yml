@@ -1,0 +1,21 @@
+spec:
+  structures:
+    - content_blocks
+  label: Industry Facts Section
+  description: industry facts with numbers and descriptions.
+  icon: "bar_chart"
+  tags: ["industry", "facts", "statistics"]
+
+blueprint:
+  title: 
+  numbers:
+    - prefix: 
+      number: 
+      suffix: 
+      text: 
+    - prefix: 
+      number: 
+      suffix: 
+      text: 
+
+preview:

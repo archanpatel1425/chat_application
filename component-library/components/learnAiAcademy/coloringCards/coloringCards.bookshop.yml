@@ -1,0 +1,25 @@
+spec:
+  structures:
+    - content_blocks
+  label: Coloring Cards Section
+  description: A section with multiple card.
+  icon: "image"
+  tags: ["cards", "coloring", "buttons", "images"]
+
+blueprint:
+  cards:
+    - title: Card 1
+      description: 
+      descriptionTwo: 
+      btn_text: 
+      btn_link: 
+      image: 
+    - title: Card 2
+      description: 
+      descriptionTwo: 
+      btn_text: 
+      btn_link:
+      image: 
+
+preview:
+

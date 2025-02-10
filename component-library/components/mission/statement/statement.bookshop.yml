@@ -1,0 +1,13 @@
+spec:
+  structures:
+    - content_blocks
+  label: Statement Section
+  description: "Displays a title and description for a statement."
+  icon: "image"
+  tags: ["statement", "title", "description"]
+
+blueprint:
+  title: 
+  description: 
+
+preview:

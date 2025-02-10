@@ -1,0 +1,22 @@
+spec:
+  structures:
+    - content_blocks
+  label: Hover Card Section
+  description: A section with hover cards containing highlighted titles and text.
+  icon: "image"
+  tags: ["hover", "cards", "interactive", "text"]
+
+blueprint:
+  title:
+  hoverCards:
+    - titlt_highlight:
+      title:
+      hover_text:
+    - titlt_highlight:
+      title:
+      hover_text:
+    - titlt_highlight:
+      title:
+      hover_text:
+
+preview:

@@ -1,0 +1,16 @@
+
+spec:
+  structures:
+    - content_blocks
+  label: Error
+  description: "404"
+  icon: "image"
+  tags: []
+
+blueprint:
+  description: "Something is wrong here!"
+  image: "/images/404/error.png"
+  image_alt: Error
+
+preview:
+

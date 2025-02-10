@@ -1,0 +1,16 @@
+spec:
+  structures:
+    - content_blocks
+  label: Home Hero Section
+  description: A hero section of the home page.
+  icon: "image"
+  tags: ["hero", "home", "banner"]
+
+blueprint:
+  title: 
+  description: 
+  image: 
+  alt: 
+
+preview:
+

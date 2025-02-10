@@ -1,0 +1,15 @@
+spec:
+  structures:
+    - content_blocks
+  label: Career Apply Section
+  description: A section that displays career application steps with an image and title.
+  icon: "image"
+  tags: ["career", "apply", "steps"]
+
+blueprint:
+  title:
+  description:
+  image:
+  alt:
+
+preview:

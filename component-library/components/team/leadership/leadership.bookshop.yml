@@ -1,0 +1,23 @@
+spec:
+  structures:
+    - content_blocks
+  label: Leadership Section
+  description: Displays a list of leadership team members with their images, roles, and LinkedIn profiles.
+  icon: "image"
+  tags: ["leadership", "team", "management", "profile"]
+
+blueprint:
+  title:
+  team_members:
+    - name:
+      role:
+      image:
+      image_alt:
+      linkedin_logo:
+    - name:
+      role:
+      image:
+      image_alt:
+      linkedin_logo:
+
+preview:

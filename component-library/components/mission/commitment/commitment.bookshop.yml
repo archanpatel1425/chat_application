@@ -1,0 +1,13 @@
+spec:
+  structures:
+    - content_blocks
+  label: Commitment Section
+  description: Displays a title and description for the commitment section.
+  icon: "image"
+  tags: ["commitment", "values", "mission", "vision"]
+
+blueprint:
+  title: 
+  description:
+
+preview:

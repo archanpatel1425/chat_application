@@ -1,0 +1,20 @@
+spec:
+  structures:
+    - content_blocks
+  label: Key Points Section
+  description: "Displays key points with images, titles, and descriptions."
+  icon: "image"
+  tags: ["key points", "image", "title", "description"]
+
+blueprint:
+  points:
+    - image:
+      image_alt: 
+      title: "Point 1"
+      description: 
+    - image: 
+      image_alt: 
+      title: "Point 2"
+      description: 
+
+preview:

@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Fonts */
+@font-face {
+  font-family: "Neue Montreal";
+  src: url('/assets/fonts/Neue-Montreal/NeueMontreal-Bold.otf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Neue Montreal";
+  src: url('/assets/fonts/Neue-Montreal/NeueMontreal-BoldItalic.otf');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Neue Montreal";
+  src: url('/assets/fonts/Neue-Montreal/NeueMontreal-Italic.otf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Neue Montreal";
+  src: url('/assets/fonts/Neue-Montreal/NeueMontreal-Light.otf');
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: "Neue Montreal";
+  src: url('/assets/fonts/Neue-Montreal/NeueMontreal-LightItalic.otf');
+  font-weight: lighter;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Neue Montreal";
+  src: url('/assets/fonts/Neue-Montreal/NeueMontreal-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+/* slider  */
+.react-multiple-carousel__arrow--left {
+  display: none;
+}
+
+.react-multiple-carousel__arrow--right {
+  display: none;
+}
+
+.react-multi-carousel-dot--active button {
+  background: #9370E4 !important;
+  border: none !important;
+}
+
+.react-multi-carousel-dot button {
+  background-color: #D9D9D9;
+  border-color: #D9D9D9 !important;
+  width: 1.1em !important;
+  height: 1.1em !important;
+  margin-right: 1em !important;
+}
+
+.react-multi-carousel-dot-list {
+  bottom: 0px !important;
+}
+
+.react-multi-carousel-dot--active {
+  margin-top: 2px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .react-multi-carousel-dot-list {
+    display: none !important;
+  }
+}
+
+/* menubar  */
+body.bg-drop {
+  position: relative;
+  overflow: hidden;
+}
+
+body.bg-drop:before {
+  content: '';
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  background: rgba(34, 37, 73, 0.2);
+  backdrop-filter: blur(20px);
+}
+
+.show {
+  background-color: #fff;
+  margin: 0 auto;
+  border-radius: 0.625em;
+  display: block;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  padding: 40px 30px 90px 16px;
+  margin: 30px 16px 32px 16px;
+  z-index: 10;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.show ul {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.show ul li {
+  font-size: 25px;
+}
+
+.show ul li a {
+  color: #3D405B;
+  padding: 0em 0em;
+}
+
+.show ul li a:hover {
+  color: #3D405B;
+}
+
+.nav-active a {
+  color: #9370E4;
+}
+
+.academy-menu ul li a {
+  color: #009CA5;
+}
+
+.academy-menu ul li a {
+  font-size: 12px;
+  padding: 0px;
+}
+
+.academy-menu ul li a:hover {
+  color: #009CA5;
+}
+
+.nav:hover .nav-active a {
+  opacity: 1 !important;
+}
+
+.nav li a {
+  transition: all 0.4s ease-in-out;
+}
+
+.socialIcons li a:hover {
+  filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(200deg) brightness(95%) contrast(80%);
+}
+
+/* scroll  */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 5px;
+  left: -10px !important;
+}
+
+
+/* text  */
+
+.fill {
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 1px #9370E4;
+}
+
+.custom-logo-slider:hover {
+  animation-play-state: paused;
+}
+
+.bg-clip {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+.custom-logo-slider:hover {
+  animation-play-state: paused;
+}
+
+/* flip-card  */
+.card {
+  perspective: 1000px;
+  cursor: pointer;
+  position: relative;
+}
+
+.card:hover .sales-inner {
+  transform: rotateY(180deg);
+}
+
+.sales-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.report-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.card:hover .report-inner {
+  transform: rotateY(180deg);
+}
+
+.email-inner {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.card:hover .email-inner {
+  transform: rotateY(180deg);
+}
+
+.training-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.card:hover .training-inner {
+  transform: rotateY(180deg);
+}
+
+.report-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.card:hover .report-inner {
+  transform: rotateY(180deg);
+}
+
+.machine-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.card:hover .machine-inner {
+  transform: rotateY(180deg);
+}
+
+
+.robot-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.card:hover .robot-inner {
+  transform: rotateY(180deg);
+}
+
+.simple-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.card:hover .simple-inner {
+  transform: rotateY(180deg);
+}
+
+.card.card-inner {
+  transform: rotateY(180deg);
+}
+
+.flipped {
+  transform: rotateY(180deg);
+}
+
+.card-back {
+  transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}

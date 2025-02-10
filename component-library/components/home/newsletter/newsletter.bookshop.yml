@@ -1,0 +1,18 @@
+spec:
+  structures:
+    - content_blocks
+  label: Newsletter Section
+  description: A section for newsletter subscription.
+  icon: "email"
+  tags: ["newsletter", "subscription", "form"]
+
+blueprint:
+  title:
+  description: 
+  form:
+    placeholder:
+    button_text: 
+
+preview:
+
+

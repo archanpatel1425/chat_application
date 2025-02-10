@@ -1,0 +1,16 @@
+spec:
+  structures:
+    - content_blocks
+  label: Last Text Section
+  description: A section with two descriptions and an image.
+  icon: "image"
+  tags: ["last-text", "description", "image"]
+
+blueprint:
+  desc_one: 
+  desc_two: 
+  image: 
+
+preview:
+
+

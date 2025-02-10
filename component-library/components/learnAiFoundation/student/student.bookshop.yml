@@ -1,0 +1,16 @@
+spec:
+  structures:
+    - content_blocks
+  label: Student Section
+  description: A section showcasing the e-learning platform for Kenyan students with description and an image.
+  icon: "image"
+  tags: ["student", "education", "e-learning"]
+
+blueprint:
+  title: 
+  desc_one:
+  desc_two:
+  image:
+
+preview:
+

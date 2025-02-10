@@ -1,0 +1,13 @@
+spec:
+  structures:
+    - content_blocks
+  label: Why It Matters Section
+  description: "Displays a title and description explaining why something matters."
+  icon: "image"
+  tags: ["why it matters", "title", "description"]
+
+blueprint:
+  title:
+  description:
+
+preview:

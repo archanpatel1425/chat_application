@@ -1,0 +1,26 @@
+spec:
+  structures:
+    - content_blocks
+  label: Current Opening Section
+  description: A section to display multiple openings.
+  icon: "image"
+  tags: ["openings", "cards", "features"]
+
+blueprint:
+  title:
+  description:
+  cards:
+    - title: "Card 1"
+      description:
+      image:
+      button_text:
+    - title: "Card 2"
+      description:
+      image:
+      button_text:
+    - title: "Card 3"
+      description:
+      image:
+      button_text:
+
+preview:

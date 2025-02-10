@@ -1,0 +1,85 @@
+{
+    "logo": "/assets/images/ai-logo.svg",
+    "items": [
+        {
+            "link": "/",
+            "text": "Home"
+        },
+        {
+            "link": "/our-mission/",
+            "text": "Our Mission"
+        },
+        {
+            "text": "About us",
+            "title": "About us",
+            "description": "Learn about our story, who we are, our mission and more",
+            "cta": [
+                {
+                    "link": "/our-mission",
+                    "label": "Learn about Our Mission"
+                }
+            ],
+            "submenu": [
+                {
+                    "link": "our-story",
+                    "text": "Our Story",
+                    "icon": "/assets/images/our-story-icon.png"
+                },
+                {
+                    "link": "team",
+                    "text": "Our People",
+                    "icon": "/assets/images/drop2.png"
+                },
+                {
+                    "link": "careers",
+                    "text": "Careers",
+                    "icon": "/assets/images/drop3.png"
+                },
+                {
+                    "link": "contact_us",
+                    "text": "Contact Us",
+                    "icon": "/assets/images/drop4.png"
+                }
+            ]
+        },
+        {
+            "text": "Our Work",
+            "title": "Our Work",
+            "description": "Explore our range of impactful projects and organizations, driving the AI revolution one initiative at a time.",
+            "cta": [
+                {
+                    "link": "our-mission",
+                    "label": "Learn about Our Mission"
+                }
+            ],
+            "submenu": [
+                {
+                    "link": "learnai-academy",
+                    "text": "LearnAi Academy",
+                    "icon": "/assets/images/work-drop1.png"
+                },
+                {
+                    "link": "learnai-foundation",
+                    "text": "LearnAi Foundation",
+                    "icon": "/assets/images/work-drop2.png"
+                },
+                {
+                    "link": "learnai-innovation",
+                    "text": "LearnAi Innovation Hub",
+                    "icon": "/assets/images/work-drop3.png"
+                }
+            ]
+        }
+    ],
+    "SocialIcons": [
+        {
+            "link": "https://www.linkedin.com/company/learn-aiorg/",
+            "icon": "/assets/images/linked.png"
+        },
+        {
+            "link": "https://instagram.com/learnaiorg?igshid=NTc4MTIwNjQ2YQ==",
+            "icon": "/assets/images/insta.png"
+        }
+    ]
+}       
+

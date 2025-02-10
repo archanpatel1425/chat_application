@@ -1,0 +1,18 @@
+spec:
+  structures:
+    - content_blocks
+  label: Reshaping Career Section
+  description: A section with a title, description, button link, and images showcasing career reshaping.
+  icon: "image"
+  tags: ["career", "reshaping", "images", "button"]
+
+blueprint:
+  title: 
+  description: 
+  btn_text:
+  btn_link:
+  Images:
+    - image: 
+    - image:
+
+preview:

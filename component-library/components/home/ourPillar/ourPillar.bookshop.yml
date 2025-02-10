@@ -1,0 +1,22 @@
+spec:
+  structures:
+    - content_blocks
+  label: Our Pillars Section
+  description: A section showcasing our core pillars.
+  icon: "support"
+  tags: ["pillars", "values", "mission"]
+
+blueprint:
+  title: 
+  description: 
+  pillars:
+    - title:
+      icon: 
+      link: 
+      btn: 
+    - title: 
+      icon: 
+      link: 
+      btn: 
+
+preview:

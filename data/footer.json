@@ -1,0 +1,42 @@
+{
+    "title": "Unlocking the Power of AI, ",
+    "title_two": "One Mind at a Time",
+    "cta_text": "Get in touch ",
+    "cta_link": "contact_us",
+    "description": "and join the LearnAI community today!",
+    "social_links": [
+        {
+            "logo": "/assets/images/footer2.png",
+            "url": "https://www.linkedin.com/company/unavailable/"
+        },
+        {
+            "logo": "/assets/images/footer4.png",
+            "url": "https://www.instagram.com/learnaiorg/?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+        }
+    ],
+    "main_links": [
+        {
+            "text": "HOME",
+            "url": "/"
+        },
+        {
+            "text": "TEAM",
+            "url": "/team"
+        },
+        {
+            "text": "OUR MISSION",
+            "url": "/our-mission"
+        }
+    ],
+    "other_links": [
+        {
+            "text": "@2023 All right reserved to LearnAi"
+        },
+        {
+            "text": "Privacy Policy"
+        },
+        {
+            "text": "Terms & Conditions"
+        }
+    ]
+}

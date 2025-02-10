@@ -1,0 +1,14 @@
+spec:
+  structures:
+    - content_blocks
+  label: Contact Section
+  description: "Displays a contact section with a title and a linkable button."
+  icon: "image"
+  tags: ["contact", "call to action", "button"]
+
+blueprint:
+  title: 
+  button_text: 
+  button_link: 
+
+preview:

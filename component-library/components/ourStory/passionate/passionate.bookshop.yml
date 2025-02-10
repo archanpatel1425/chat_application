@@ -1,0 +1,15 @@
+spec:
+  structures:
+    - content_blocks
+  label: Passionate Section
+  description: "Displays a passionate message with title, description, and side image."
+  icon: "image"
+  tags: ["passionate", "message", "image"]
+
+blueprint:
+  Passionate:
+    title:
+    description:
+    side_image:
+
+preview:

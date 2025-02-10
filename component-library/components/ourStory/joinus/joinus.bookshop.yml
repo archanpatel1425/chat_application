@@ -1,0 +1,21 @@
+spec:
+  structures:
+    - content_blocks
+  label: Join Us Section
+  description: "Displays a section encouraging users to join, with custom descriptions and various icons."
+  icon: "image"
+  tags: ["join us", "description", "icons"]
+
+blueprint:
+  descriptionOne: 
+  descriptionTwoPrefix:
+  descriptionTwoHighlight:
+  descripitonTwoSuffix: 
+  polygonLeft: 
+  roundLeft: 
+  smallRoundLeft: 
+  RectangleLeft:
+  smallRectangleLeft: 
+  star: 
+
+preview:

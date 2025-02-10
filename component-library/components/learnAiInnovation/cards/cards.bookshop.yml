@@ -1,0 +1,20 @@
+spec:
+  structures:
+    - content_blocks
+  label: Cards Section
+  description: A section displaying multiple cards with images, titles, and descriptions.
+  icon: "image"
+  tags: ["cards", "images", "text"]
+
+blueprint:
+  cards:
+    - title: "Card Title 1"
+      description:
+      image:
+      north_image:
+    - title:
+      description:
+      image:
+      north_image:
+
+preview:

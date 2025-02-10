@@ -1,0 +1,16 @@
+spec:
+  structures:
+    - content_blocks
+  label: Map Section
+  description: A section containing a map image with prefix, highlight, and suffix text.
+  icon: "image"
+  tags: ["map", "text", "highlight"]
+
+blueprint:
+  map_img:
+  prefix_text:
+  highlight: 
+  suffix: 
+
+preview:
+

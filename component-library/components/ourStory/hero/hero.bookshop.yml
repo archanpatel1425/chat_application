@@ -1,0 +1,16 @@
+spec:
+  structures:
+    - content_blocks
+  label: Hero Section
+  description: "Displays a hero section with title, subtitle, and background image."
+  icon: "image"
+  tags: ["hero", "title", "background"]
+
+blueprint:
+  above_title:
+  title: 
+  title_suffix: 
+  below_title: 
+  background_image: 
+
+preview:

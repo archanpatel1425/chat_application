@@ -1,0 +1,18 @@
+
+spec:
+  structures:
+    - content_blocks
+  label: Header
+  description: Header section
+  icon: "image"
+  tags: []
+
+
+blueprint:
+  title: 
+  title_suffix: 
+  description: 
+  remove_top_padding: false
+
+preview:
+

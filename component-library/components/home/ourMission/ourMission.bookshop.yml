@@ -1,0 +1,23 @@
+spec:
+  structures:
+    - content_blocks
+  label: Our Mission Section
+  description: A section highlighting our mission with recent updates and links.
+  icon: "flag"
+  tags: ["mission", "updates", "goals"]
+
+blueprint:
+  title: 
+  description: 
+  updates:
+    - title: 
+      date:
+      link: 
+      text: 
+    - title: 
+      date:
+      link:
+      text: 
+
+preview:
+
