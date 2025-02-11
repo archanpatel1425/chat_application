@@ -1,14 +1,21 @@
-import Image from "next/image";
-import React from "react";
 
 const Retention = ({ block, dataBinding }) => {
-  const { title, qusetion1, description1, qusetion2, description2} = block;
- 
+  const { title, qusetion, description } = block;
   return (
-    <div data-cms-bind={dataBinding}>
-     
+    <div >
+      <div className='max-w-[90%] xl:max-w-[1280px] mx-auto my-0 px-0 em:px-4'>
+        <div className='mt-[50px] md:mt-[100px]' data-cms-bind={dataBinding}>
+          <h5 className='text-[26px] md:text-[34px] leading-[30px] text-[#3D405B] font-DM font-bold pt-[20px] pb-[20px] md:pb-[40px]'>6. {title}</h5>
+
+          <div>
+            <h6 className='font-DM font-bold text-[18px] md:text-[20px] text-[#3D405B]'>{qusetion}</h6>
+
+            <p className='font-DM  text-[16px] md:text-[18px] lg:text-[20px] font-normal leading-[25px] md:leading-[30px] text-[#3D405B] pt-[20px]'>{description}</p>
+          </div>
+        </div>
+      </div>
     </div>
-  );
-};
+  )
+}
 
 export default Retention;
